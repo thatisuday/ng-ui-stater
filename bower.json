@@ -1,0 +1,27 @@
+{
+  "name": "ui-stater",
+  "description": "ui-router helper directive to generate class, attribute or id field based on state name a ui-view directive posseses...",
+  "main": "dist/ui-stater.js",
+  "authors": [
+    "Uday Hiwarale <uhiwarale@gmail.com> (https://github.com/thatisuday)"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "directive",
+    "provider",
+    "ui-router",
+    "ui-router-helper"
+  ],
+  "homepage": "https://github.com/thatisuday/ui-stater",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-ui-router": "^0.3.1"
+  }
+}
