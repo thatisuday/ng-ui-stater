@@ -1,4 +1,5 @@
-# ui-stater
+# Ui Stater ![bower](https://img.shields.io/bower/v/ui-stater.svg?style=flat-square) [![npm downloads](https://img.shields.io/npm/dt/ng-stater.svg?style=flat-square)](https://www.npmjs.com/package/ng-stater)
+
 **ui-router helper directive to generate class, attribute or id field based on state name a ui-view directive posseses...**
 
 ### In a nutshell
